@@ -2,6 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: gcloud-api
+  links:
+    - url: http://gcloud.com/v1
+      title: Gcloud
+      icon: dashboard
   description: API to fetch info from Google cloud
 spec:
   type: openapi
