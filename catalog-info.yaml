@@ -3,7 +3,7 @@ kind: API
 metadata:
   name: gcloud-api
   links:
-    - url: http://gcloud.com/v1
+    - url: http://gcloud-dummy.com/dummysdfs
       title: Gcloud
       icon: dashboard
   description: API to fetch info from Google cloud
