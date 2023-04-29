@@ -11,6 +11,7 @@ spec:
   type: openapi
   lifecycle: experimental
   owner: user:fotisolgr
+  system: gemma
   definition: |
     openapi: "3.0.0"
     info:
